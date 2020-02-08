@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '7318'
     url: http://www.gutenberg.org/2009/agents/7318
     wikipedia: https://en.wikipedia.org/wiki/May_Wilson_Preston
+covers:
+- cover_type: archival
+  image_path: 61238-h/images/cover.jpg
 creator:
   author:
     agent_name: Watanna, Onoto
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49587
     wikipedia: https://en.wikipedia.org/wiki/Winnifred_Eaton_(writer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61238#The-Diary-of-Delia-Being-a-Veracious-Chronicle-of-the-Kitchen-with-Some-Side-Lights-on-the-Pa_
 gutenberg_issued: '2020-01-25'
 gutenberg_type: Text
 identifiers:
